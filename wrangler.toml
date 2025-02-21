@@ -1,6 +1,6 @@
 name = "vite-app"
 type = "javascript"
-account_id = "g9w9J31U-nVHJ2P7cdYZKzKyJNUUSPgJrxA5YneY
+account_id = "bc9528f95db3a5e87e468e2516507711"
 workers_dev = true
 main = "./dist/index.html"
 
