@@ -2,7 +2,6 @@ name = "vite-app"
 type = "javascript"
 account_id = "g9w9J31U-nVHJ2P7cdYZKzKyJNUUSPgJrxA5YneY"
 workers_dev = true
-main = "./dist/index.html"
 
 [site]
-bucket = "./dist"
+bucket = "." 
